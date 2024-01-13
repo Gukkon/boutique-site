@@ -180,8 +180,7 @@ STRIPE_CURRENCY = 'usd'
 STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', '')
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', '')
 STRIPE_WH_KEY = os.getenv('STRIPE_WH_KEY', '')
-# STRIPE_PUBLIC_KEY = 'pk_test_51OVHT0I2b26oPL7jHefyaPsoIu1BE97jLZEb49LmipBexuH9aqAMYKaBhhQDdJPwBmcdYwNPldaLJIqjdzvRLo8600dm4cFWm2'
-# STRIPE_SECRET_KEY = 'sk_test_51OVHT0I2b26oPL7jD00Ui98GW5MAkk9en6LEIIxhZ8drCTErB1QVEYUisjh6ABYEgypOuvhL9Tzg3ykdgE4OHkf900FU7LmtIx'
+DEFAULT_FROM_EMAIL = 'boutiqueado@example.com'
 
 
 # Default primary key field type
