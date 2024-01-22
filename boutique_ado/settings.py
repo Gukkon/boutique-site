@@ -56,8 +56,7 @@ INSTALLED_APPS = [
     'profiles',
     
     # OTHER
-
-    'crispy_forms'
+    'crispy_forms',
     'storages',
 ]
 
