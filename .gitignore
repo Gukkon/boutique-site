@@ -3,3 +3,5 @@
 __pycache__
 settings.py
 env.py
+node_modules
+node_modules
